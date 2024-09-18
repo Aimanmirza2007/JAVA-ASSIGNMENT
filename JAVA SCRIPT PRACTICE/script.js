@@ -7,9 +7,6 @@ alert("My name is Aiman")
  console.log(username)
  alert( meassage  +" "+ username);
   console.log(` ${meassage}  ${username}`)
-// var myName = ("urooj shakeel")
-// alert("hello, my name is" +" "+ myName);
-// console.log(myName);
 
 
 
